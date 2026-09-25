@@ -248,6 +248,7 @@ The project demonstrates how camera-based hand landmarks can be translated into 
 ## 👤 Author
 
 **Srajal Singh**
+
 B.Tech CSE
 
 If you find the project interesting, feel free to explore the source code, try the application, or build your own gesture-controlled desktop experience.
